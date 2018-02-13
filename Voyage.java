@@ -4,7 +4,7 @@
  * @author Besnard Corentin - Alexandre Arnaud
  * @version 26/01/18
  */
-/* Test git */
+/* Test git +2 */
 import java.util.Scanner;
 
 public class Voyage
